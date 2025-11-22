@@ -1,0 +1,7 @@
+{
+  "name": "VisionAI Thesis Platform",
+  "description": "A production-grade computer vision platform replacing legacy prototypes. Features asynchronous analysis, real-time dashboards, and automated PDF reporting using advanced AI models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
